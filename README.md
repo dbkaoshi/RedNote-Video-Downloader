@@ -7,7 +7,7 @@ It's a free and Online tool which can download RedNote Videos(Xiaohongshu videos
 
 RedNote, also called Xiaohongshu or Little Red Book, is a popular social media platform in China. 
 People can share their lifestyle content on RedNote(Xiaohongshu).
-
+[rednote chinese website](https://www.xiaohongshu.com)
 
 ## Features  
 
