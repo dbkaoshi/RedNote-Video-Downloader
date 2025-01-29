@@ -1,6 +1,6 @@
 # Rednote-Video-Downloader(小红书视频下载工具)  
 
-Website: [Rednote Video Downloader](https://xhs-downloader.top)  
+官网Website: [Xiaohongshu Video Downloader](https://xhs-downloader.top)  
 It's a free and Online tool which can download rednote videos(Xiaohongshu videos) Without Watermark.  
 
 ## What is rednote(Xiaohongshu)?  
@@ -13,10 +13,10 @@ People can share their lifestyle content on rednote(Xiaohongshu).
 
 - Fast
 - No Watermark
-- T100% Private, Safe
+- 100% Private, Safe
 
 ## How It Works
 
-- Copy the video or post URL from RedNote app or website
+- Copy the video or post URL from rednote app or website
 - Paste the URL into our downloader
 - Click download and save rednote video you desired
