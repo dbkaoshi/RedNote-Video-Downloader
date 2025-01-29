@@ -1,13 +1,13 @@
-# RedNote-Video-Downloader  
+# Rednote-Video-Downloader  
 
-Website: [RedNote Video Downloader](https://xhs-downloader.top)  
-It's a free and Online tool which can download RedNote Videos(Xiaohongshu videos) Without Watermark.  
+Website: [Rednote Video Downloader](https://xhs-downloader.top)  
+It's a free and Online tool which can download rednote videos(Xiaohongshu videos) Without Watermark.  
 
-## What is RedNote(Xiaohongshu)?  
+## What is rednote(Xiaohongshu)?  
 
-RedNote, also called Xiaohongshu or Little Red Book, is a popular social media platform in China. 
-People can share their lifestyle content on RedNote(Xiaohongshu).  
-[RedNote chinese website](https://www.xiaohongshu.com)
+Rednote, also called Xiaohongshu or Little Red Book, is a popular social media platform in China. 
+People can share their lifestyle content on rednote(Xiaohongshu).  
+[rednote chinese website](https://www.xiaohongshu.com)
 
 ## Features  
 
@@ -19,4 +19,4 @@ People can share their lifestyle content on RedNote(Xiaohongshu).
 
 - Copy the video or post URL from RedNote app or website
 - Paste the URL into our downloader
-- Click download and save RedNote video you desired
+- Click download and save rednote video you desired
